@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+locale                   : "it"
+title                    : "Andrea Xab Corinti"
+title_separator          : "x"
+name                     : "Andrea Corinti"
+description              : "A (web) world citizen."
+url                      : "https://xabacadabra.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://xabacadabra.com/andrea-corinti" # the subpath of your site, e.g. "/blog"
+repository               : "xabacadabra/andrea-corinti" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Andrea Corinti"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Un blogger prepotentemente attivo dal 2013."
+  location         : "Italy"
   email            :
   uri              :
   bitbucket        :
