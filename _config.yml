@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Andrea Xab Corinti"
 description              : &description "A (Web) World Citizen."
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/test" # the subpath of your site, e.g. "/blog"
-repository               : "xabacadabra/test"
+baseurl                  : "/andrea-corinti" # the subpath of your site, e.g. "/blog"
+repository               : "xabacadabra/andrea-corinti"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
