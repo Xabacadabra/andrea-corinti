@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Read More"
   - image_path: blog.jpg
     alt: "fully responsive"
-    title: "Xaba Cadabra"
+    title: "<img src='/images/it.gif' alt='it'> Blog"
     excerpt: "Xaba Cadabra è un blog, un Cetramod ad personam ed un aggregatore di tutto quello che combino in rete (o quasi)."
     url: "http://xabacadabra.com/blog/story/"
     btn_label: "Blog Story"
@@ -38,5 +38,3 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-paypal.me/corinti
