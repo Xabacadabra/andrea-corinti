@@ -13,13 +13,13 @@ excerpt: 'In arte <i>Xab</i>
 feature_row:
   - image_path: progetti.jpg
     alt: "customizable"
-    title: "Progetti"
-    excerpt: "Cose a cui ho collaborato e/o sto realizzando attualmente al di fuori del contesto blog."
-    url: "http://xabacadabra.com/progetti/"
-    btn_label: "Leggi altro"
+    title: "Projects"
+    excerpt: "(Work in Progress)"
+    url: "#"
+    btn_label: "Read More"
   - image_path: blog.jpg
     alt: "fully responsive"
-    title: "Blog"
+    title: "<img src='it.gif' alt='it'> Blog"
     excerpt: "Xaba Cadabra è un blog, un Cetramod ad personam ed un aggregatore di tutto quello che combino in rete (o quasi)."
     url: "http://xabacadabra.com/blog/story/"
     btn_label: "Blog Story"
@@ -28,11 +28,11 @@ feature_row:
     title: "Scarabocchi"
     excerpt: "Disegnini ed esperimenti grafici che mi diverto a fare per passare il tempo e sperimentare nuovi software"
     url: "http://xabacadabra.com/progetti/artwork/"
-    btn_label: "Leggi di più"
+    btn_label: "Read More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Per aggiornamenti su quel che combino e contattarmi -> &nbsp; [<i class="fa fa-twitter"></i> @xabaras89](https://twitter.com/xabaras89){: .btn .btn--twitter}'
+  - excerpt: 'For updates and direct contact tweet me at -> &nbsp; [<i class="fa fa-twitter"></i> @xabaras89](https://twitter.com/xabaras89){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
